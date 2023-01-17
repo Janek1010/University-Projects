@@ -1,2 +1,2 @@
 # University-Projects
-In this repository I have my old project from studies. I lost some of proje
+In this repository I have my old project from studies. I uploaded only bigger projects, at Laboratories and exercises I've done a lot of small snippets of code and lost them due to lapse of time.
