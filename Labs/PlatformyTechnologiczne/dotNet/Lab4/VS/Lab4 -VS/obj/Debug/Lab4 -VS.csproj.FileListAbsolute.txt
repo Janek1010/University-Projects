@@ -1,0 +1,10 @@
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\bin\Debug\Lab4 -VS.exe.config
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\bin\Debug\Lab4 -VS.exe
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\bin\Debug\Lab4 -VS.pdb
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\obj\Debug\Lab4 -VS.csproj.AssemblyReference.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\obj\Debug\Lab4 -VS.csproj.SuggestedBindingRedirects.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\obj\Debug\Lab4__VS.Properties.Resources.resources
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\obj\Debug\Lab4 -VS.csproj.GenerateResource.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\obj\Debug\Lab4 -VS.csproj.CoreCompileInputs.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\obj\Debug\Lab4 -VS.exe
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\VS\Lab4 -VS\obj\Debug\Lab4 -VS.pdb

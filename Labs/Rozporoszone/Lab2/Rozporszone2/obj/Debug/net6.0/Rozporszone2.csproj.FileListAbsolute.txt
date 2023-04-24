@@ -1,0 +1,12 @@
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\bin\Debug\net6.0\Rozporszone2.deps.json
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\bin\Debug\net6.0\Rozporszone2.dll
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\bin\Debug\net6.0\Rozporszone2.pdb
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\Rozporszone2.csproj.AssemblyReference.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\Rozporszone2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\Rozporszone2.AssemblyInfoInputs.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\Rozporszone2.AssemblyInfo.cs
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\Rozporszone2.csproj.CoreCompileInputs.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\Rozporszone2.dll
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\refint\Rozporszone2.dll
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\Rozporszone2.pdb
+C:\Users\janek\MyCodes\University-Projects\Labs\Rozporoszone\Lab2\Rozporszone2\obj\Debug\net6.0\ref\Rozporszone2.dll

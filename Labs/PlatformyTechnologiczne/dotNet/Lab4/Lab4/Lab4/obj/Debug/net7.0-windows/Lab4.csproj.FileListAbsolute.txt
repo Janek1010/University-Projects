@@ -1,0 +1,15 @@
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\bin\Debug\net7.0-windows\Lab4.exe
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\bin\Debug\net7.0-windows\Lab4.deps.json
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\bin\Debug\net7.0-windows\Lab4.runtimeconfig.json
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\bin\Debug\net7.0-windows\Lab4.dll
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\bin\Debug\net7.0-windows\Lab4.pdb
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.csproj.AssemblyReference.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.AssemblyInfo.cs
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.dll
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\refint\Lab4.dll
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.pdb
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\janek\MyCodes\University-Projects\Labs\PlatformyTechnologiczne\dotNet\Lab4\Lab4\Lab4\obj\Debug\net7.0-windows\ref\Lab4.dll

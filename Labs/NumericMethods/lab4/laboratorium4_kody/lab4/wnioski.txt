@@ -1,0 +1,1 @@
+funckja znajduje miejsce zerowe tangensa korzystajac  z metody bisekcji i interpolacji

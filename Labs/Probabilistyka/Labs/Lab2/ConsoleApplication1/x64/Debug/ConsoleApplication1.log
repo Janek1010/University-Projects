@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\janek\MyCodes\University-Projects\Labs\Probabilistyka\Labs\Lab2\ConsoleApplication1\ConsoleApplication1.cpp(7,37): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\janek\MyCodes\University-Projects\Labs\Probabilistyka\Labs\Lab2\ConsoleApplication1\ConsoleApplication1.cpp(7,32): warning C4244: 'initializing': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\janek\MyCodes\University-Projects\Labs\Probabilistyka\Labs\Lab2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
