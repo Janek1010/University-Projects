@@ -22,11 +22,19 @@ public class MyClient {
         LOGGER.log(Level.INFO, "Response:  {0}", response1);
         Thread.sleep(2000);
 
-        client1.sendMessage(new Message(1, "siema"));
+        Message mess1 = new Message(1, "siema");
+        client1.sendMessage(mess1);
+        LOGGER.log(Level.INFO, "Wysylam:  {0}", mess1);
         Thread.sleep(2000);
-        client1.sendMessage(new Message(2, "aaaaaaa"));
+
+        Message mess2 = new Message(2, "hej");
+        client1.sendMessage(mess1);
+        LOGGER.log(Level.INFO, "Wysylam:  {0}", mess2);
         Thread.sleep(2000);
-        client1.sendMessage(new Message(3, "bbbbbb"));
+
+        Message mess3 = new Message(3, "co tam?");
+        client1.sendMessage(mess1);
+        LOGGER.log(Level.INFO, "Wysylam:  {0}", mess3);
         Thread.sleep(2000);
 
 
