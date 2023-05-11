@@ -1,0 +1,3 @@
+wraz ze wzrostem ilości pomairów wykres wartości pomiarów oddaje o wiele lepiej
+realną sytuację promieniowania. W przypadku naszych danych
+interpolacja trygonometryczna jest bardziej dokladna

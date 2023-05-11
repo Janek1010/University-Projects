@@ -1,0 +1,2 @@
+Interpolacja trygonometryczna zdecydowanie jest lepsza, zbiega do zera i pokazuje ze wraz ze wzrostem argumentow 
+wyniki sa lepsze. Interpolacja wielomianowa natomaist nie dostarcza nam sensownsych danych i caly czas zmienia wartosci
