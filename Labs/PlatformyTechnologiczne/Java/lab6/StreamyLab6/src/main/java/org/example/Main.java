@@ -1,26 +1,18 @@
 package org.example;
 
 import java.io.IOException;
-import java.net.URISyntaxException;
-import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
+        String destinationDirectory = args[0];
+        String startingDirectory = args[1];
 
+        long time = System.currentTimeMillis();
+        ImageProcessor.processImagesParallel(startingDirectory, destinationDirectory);
+        System.out.println("Wykonane za pomoca operacji rownoleglych "+(System.currentTimeMillis() - time)/1000.0+" sekund");
 
-        List<Path> files;
-        Path source = Path.of("C:\\Users\\janek\\MyCodes\\University-Projects\\Labs\\PlatformyTechnologiczne\\Java\\lab6\\StreamyLab6\\src\\main\\resources\\pictures");
-        try (Stream<Path> stream = Files.list(source)) {
-            files = stream.collect(Collectors.toList());
-        } catch (IOException e) {
-        }
-
-
+        long time2 = System.currentTimeMillis();
+        ImageProcessor.processImagesParallel(startingDirectory, destinationDirectory);
+        System.out.println("Wykonane za pomoca operacji sekwencyjnych "+(System.currentTimeMillis() - time)/1000.0+" sekund");
     }
 }
