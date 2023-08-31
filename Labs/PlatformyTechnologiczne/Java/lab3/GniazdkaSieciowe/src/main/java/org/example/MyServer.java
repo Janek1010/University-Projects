@@ -1,9 +1,13 @@
 package org.example;
 
-import java.io.*;
+import java.io.EOFException;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.logging.*;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class MyServer {
     private static final Logger LOGGER = Logger.getLogger(MyServer.class.getName());
